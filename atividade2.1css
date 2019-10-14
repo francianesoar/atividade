@@ -1,0 +1,69 @@
+@charset 'UTF-8';
+
+body{
+	padding: 100px;
+	margin: 100px;
+	background: #D3D3D3;
+}
+
+p{
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 10px;
+}
+div#tudo {
+	background: #D3D3D3;
+	border: 1px solid #000; 
+	margin: 30px;
+	width: 635px;
+}
+header#id{
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 10px; 
+	padding: 10px;
+}
+
+nav#style {
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 10px 10px 0;
+	padding: 10px;
+}
+ul#style{
+	list-style-type: none;
+	padding: 0;
+}
+article{
+	background: #D3D3D3;
+	border: 1px solid #000; 
+	margin: 30px 10px;
+	width: 233px;
+	position: absolute;
+    padding: 10px
+}
+h1{
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 10px;
+}
+aside#h3{
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 10px;
+}
+aside {
+	background: #D3D3D3;
+	border: 1px solid #000;
+	position: relative;
+	top: 30px; left: 124px;
+	height: 102px;
+	padding: 10px
+
+}
+footer{
+	background: #A9A9A9;
+	border: 1px solid #000;
+	margin: 0 10px 10px;
+	padding: 10px;
+}
